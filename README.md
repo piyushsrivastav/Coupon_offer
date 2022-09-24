@@ -3,6 +3,8 @@
 The objective is to predict whether or not the the grocery stores will be offering the discount coupons for a given customer.  
 ### **Domain** 
 Retail, Marketing
+
+
 ![image](https://user-images.githubusercontent.com/92087972/192085713-9da6790d-ecc9-49bf-9628-b419d920a030.png)
 
 
