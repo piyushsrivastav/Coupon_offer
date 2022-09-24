@@ -20,6 +20,6 @@ Retail, Marketing
 #### Classification Metrics
 ![image](https://user-images.githubusercontent.com/92087972/192085645-4f947481-58ad-45fb-9a8a-896b12fdb855.png)
 
-#### Conclusions
-###### After Upsampling the precision has increased for each class, but recall remains the same.
-###### Further fine tuning can improve the results better
+### Conclusions
+##### After Upsampling the precision has increased for each class, but recall remains the same.
+##### Further fine tuning can improve the results better
